@@ -133,4 +133,9 @@ Hotkey list:
 | Down | ↓ |
 | Left | ← |
 | Right | → |
-| new added command | &#8984; |
+Emoji:
+
+❗ Use emoji icons to enchance text. 👍 Look up emoji codes at emoji-cheat-sheet.com
+
+Markup : Code appears between colors :EMOJICODE: 😷
+
